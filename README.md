@@ -1,4 +1,4 @@
-# Иванов Иван Иванович
+# Болтенков Степан Фёдорович
 
 <!-- Замени ссылку на своё фото: загрузи фото в этот же репозиторий и укажи имя файла -->
 <!-- Например: <img src="photo.jpg" ...> — если файл называется photo.jpg -->
@@ -7,7 +7,7 @@
 **Инженер-разработчик**
 Встраиваемые системы · Силовая электроника · Электропривод
 
-📧 email@example.com &nbsp;·&nbsp; 📱 +7 (___) ___-__-__
+📧 boltikststepan@gmail.com &nbsp;·&nbsp; 💬 Telegram: [@devex41](https://t.me/devex41)
 
 Студент магистратуры СПбГЭТУ «ЛЭТИ» (2025–2027), направление — автоматизация и управление производственными комплексами. Интересует разработка собственных устройств: от схемотехники и топологии плат до прошивок и алгоритмов управления.
 
@@ -24,8 +24,9 @@
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC84B?style=flat&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat&logo=platformio&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB%2FSimulink-0076A8?style=flat&logo=mathworks&logoColor=white)
 
-**МК:** ESP32, ATmega328p &nbsp;|&nbsp; **Силовая часть:** IGBT, MOSFET, векторное управление СДПМ &nbsp;|&nbsp; **PCB:** Altium Designer, EasyEDA &nbsp;|&nbsp; **Интерфейсы:** SPI, UART, I²C, RS485, USB, DMA &nbsp;|&nbsp; **САУ:** TIA Portal, Codesys (учебный уровень)
+**МК:** ESP32, ATmega328p &nbsp;|&nbsp; **Силовая часть:** IGBT, MOSFET, векторное управление СДПМ &nbsp;|&nbsp; **PCB:** Altium Designer, EasyEDA &nbsp;|&nbsp; **Интерфейсы:** SPI, UART, I²C, USB &nbsp;|&nbsp; **Техники:** DMA, FreeRTOS &nbsp;|&nbsp; **Моделирование:** Matlab/Simulink (расчёты и моделирование САУ, синтез регуляторов), Ansys Maxwell (базовый уровень) &nbsp;|&nbsp; **САУ:** TIA Portal, Codesys (учебный уровень)
 
 ---
 
