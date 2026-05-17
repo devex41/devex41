@@ -27,9 +27,7 @@
 ## 🛠 Стек
 
 **МК и прошивки**: ESP32, ATmega328p, C/C++, FreeRTOS, ESP-IDF, PlatformIO, Arduino
-
 **Силовая электроника:** IGBT, MOSFET, силовые преобразователи, векторное управление СДПМ
-
 **Схемотехника и PCB:** Altium Designer, EasyEDA, аналоговая и цифровая схемотехника
 
 **Интерфейсы:** SPI, UART, I²C, RS485, USB, DMA
