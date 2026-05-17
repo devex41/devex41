@@ -4,7 +4,7 @@
 <!-- Например: <img src="photo.jpg" ...> — если файл называется photo.jpg -->
 <img src="photo.jpg" align="right" width="130" style="border-radius:8px; margin-left:16px"/>
 
-**Инженер-разработчик**|
+**Инженер-разработчик** |
 Встраиваемые системы · Силовая электроника · Электропривод
 
 📧 boltikststepan@gmail.com &nbsp;·&nbsp; 💬 Telegram: [@devex41](https://t.me/devex41)
