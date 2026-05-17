@@ -29,10 +29,10 @@
 **МК и прошивки**: ESP32, ATmega328p, C/C++, FreeRTOS, ESP-IDF, PlatformIO, Arduino  
 **Силовая электроника:** IGBT, MOSFET, силовые преобразователи, векторное управление СДПМ  
 **Схемотехника и PCB:** Altium Designer, EasyEDA, аналоговая и цифровая схемотехника  
-**Интерфейсы:** SPI, UART, I²C, USB, DMA  
+**Интерфейсы:** SPI, UART, I²C, USB, DMA, Wi-Fi, Bluetooth, PWM (PPM)   
 **АСУТП:** TIA Portal/Simatic Manager/Codesys (учебный уровень), Python SCADA  
 **Измерения и отладка:** осциллограф, логический анализатор, мультиметр, токовые клещи  
-**CAD / CAM:** Компас 3D, AutoCAD 2D (базовый уровень), Cura (FDM-печать), LightBurn (лазерные станки)  
+**CAD / CAM:** Компас 3D, AutoCAD 2D (учебный уровень), Cura (FDM-печать), LightBurn (лазерные станки)  
 **Моделирование:**	  Matlab/Simulink (анализ САУ, синтез регуляторов), Ansys Maxwell (базовый уровень)  
 
 
