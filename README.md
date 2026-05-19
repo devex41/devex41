@@ -51,9 +51,9 @@
 
 **Стек:** ESP32, C++, FreeRTOS, IGBT, Altium Designer, Simulink, векторное управление
 <details>
-<summary>Фото</summary>
+<summary>**Фото**</summary>
 
-![описание](images/1. Гибрид/IMG_20250113_184743.jpg)
+![описание](IMG_20250113_184743.jpg)
 
 </details>
 ---
