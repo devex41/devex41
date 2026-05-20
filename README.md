@@ -32,7 +32,7 @@ boltikststepan@gmail.com · Telegram: @devex41 · github.com/devex41
 
 ---
 
-## 🛠 Стек
+## Стек
 
 **МК и прошивки**: ESP32, ATmega328p, C/C++, FreeRTOS, ESP-IDF, PlatformIO, Arduino  
 **Силовая электроника:** IGBT, MOSFET, силовые преобразователи, векторное управление СДПМ  
@@ -46,7 +46,7 @@ boltikststepan@gmail.com · Telegram: @devex41 · github.com/devex41
 
 ---
 
-## 📁 Проекты
+## Проекты
 
 ### Проект 1 — Гибридный электропривод
 
